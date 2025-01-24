@@ -16,7 +16,7 @@ One of the cooler websites I have found is [__Zoom Earth__](https://zoom.earth/)
 [__YouTube__][youtube-home] has information, tutorials, and content for everyone - here's a short list of additional topics that I enjoy on the platform:
 * [Economics and investing](https://www.youtube.com/@adam.taggart) - _Thoughtful Money_ is a great resource for anyone that wants to learn more about economics and investing. The host, Adam Taggart, is very easy to listen to and communicates complex information in a way that I can easily understand.
 * [Comedy and standup performances](https://www.youtube.com/@TheComedyStore) - _The Comedy Store_ is an historic venue in Los Angeles that consistently has some of the most well-known comedians come in to perform. It is fun to watch such big stars perform in an intimate setting.
-* [Technology and coding podcasts][code camp youtube] - I find _[Free Code Camp]_[code camp youtube] to be really fascinating because the founder is a self-taught former teacher that built this platform from the ground up. He interviews lots of sucessful people in the technology space that have taken unique paths to land a career.
+* [Technology and coding podcasts][code camp youtube] - I find _[Free Code Camp][code camp youtube]_ to be really fascinating because the founder is a self-taught former teacher that built this platform from the ground up. He interviews lots of sucessful people in the technology space that have taken unique paths to land a career.
 
 [youtube-home]: https://www.youtube.com
 [code camp youtube]: https://www.youtube.com/@freecodecamp
